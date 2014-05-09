@@ -1,6 +1,7 @@
 $body-bg: #2980b9;
 $navbar-inverse-bg: black;
 $navbar-inverse-link-color: white;
+$navbar-inverse-link-hover-color: #2980b9; 
 $brand-primary: black;
 
 @import 'bootstrap';
@@ -10,5 +11,5 @@ $brand-primary: black;
 }
 
 .navbar-brand {
-	font-weight:bold;
+	font-weight: bold;
 }
